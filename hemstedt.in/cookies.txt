@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.hemstedt.de	TRUE	/	FALSE	1999999999	fe_typo_user	61cf260fa51cd294d7ace940e5e3b3bc
+www.hemstedt.de	TRUE	/	FALSE	1999999999	samesite	lax
+
